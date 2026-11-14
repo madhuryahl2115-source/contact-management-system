@@ -64,3 +64,7 @@ Version
 License
 
 For educational and project demonstration purposes.
+## Application Screenshots
+
+### Main Dashboard
+![Dashboard](screenshots/dashboard.png)
