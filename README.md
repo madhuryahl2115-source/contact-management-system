@@ -66,5 +66,13 @@ License
 For educational and project demonstration purposes.
 ## Application Screenshots
 
-### Main Dashboard
-![Dashboard](screenshots/dashboard.png)
+### Contact Management System
+![Screenshot 1](<Screenshot 2026-11-14 125345.png>)
+
+![Screenshot 2](<Screenshot 2026-11-14 125524.png>)
+
+![Screenshot 3](<Screenshot 2026-11-14 125756.png>)
+
+![Screenshot 4](<Screenshot 2026-11-14 125844.png>)
+
+![Screenshot 5](<Screenshot 2026-11-14 125934.png>)
